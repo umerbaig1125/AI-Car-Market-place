@@ -71,7 +71,7 @@ npm install
 npm run dev
 
 
-👨‍💻 Developed by
+### 🔧 👨‍💻 Developed by
 Muhammad Umer Baig
 React Native | MERN Stack Developer
 📧 umerbaig1125@gmail.com
