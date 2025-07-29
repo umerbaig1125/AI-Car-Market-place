@@ -1,42 +1,73 @@
-<<<<<<< HEAD
-DEPLOYED AT = https://vehiql-hazel.vercel.app/
-# Vehiql
-Car Application hosted to vercel
-=======
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🚗 Vehiql – Car Marketplace App
 
-## Getting Started
+**Vehiql** is an AI-powered car marketplace web application designed to help users search, compare, and book test drives for their dream cars — all from a sleek, modern interface. Built using the MERN stack, Vehiql combines intelligent filtering with real-time data and a user-friendly experience.
 
-First, run the development server:
+---
 
+## 🧠 Key Features
+
+- 🔍 **AI-Powered Car Discovery**  
+  Smart filtering system that adapts to user preferences such as price, fuel type, year, brand, and more. Results become more relevant as the system learns user behavior.
+
+- 🚘 **Detailed Car Listings**  
+  Each listing contains specs, features, HD images, and key comparison info. Filters include brand, model, fuel type, transmission, and price range.
+
+- 📅 **Book Test Drives Instantly**  
+  Integrated calendar interface lets users book test drives at selected dealerships in real time.
+
+- ❤️ **Wishlist and Compare**  
+  Users can save cars to their personal wishlist and compare multiple vehicles side-by-side.
+
+- 📍 **Location-Based Dealership Discovery**  
+  Shows dealerships or sellers near the user using Google Maps integration, custom pins, and address filters.
+
+- 🧾 **Admin Dashboard (Optional)**  
+  Admin can add/edit car listings, manage bookings, and monitor user activity (if included).
+
+---
+
+## 📸 Screenshots
+
+### 🔍 Home Screen  
+![Home Screen](./public/home-screen.webp)
+
+### 🧠 AI-Powered Search  
+![AI Search](./public/Details.webp)
+
+### 🚘 Car Details Page  
+![Car Details](./public/platform.webp)
+
+### 📅 Test Drive Booking  
+![Book Test Drive](./public/FQA.webp)
+
+---
+
+## 🛠 Tech Stack
+
+| Layer        | Technology                                   |
+|--------------|-----------------------------------------------|
+| **Frontend** | React.js, Tailwind CSS, React Router          |
+| **State**    | Redux Toolkit / Context API                   |
+| **Backend**  | Node.js, Express.js                           |
+| **Database** | MongoDB Atlas (Cloud DB)                      |
+| **Auth**     | Firebase Authentication / JWT (for admin)     |
+| **AI Logic** | Custom filtering engine using JS/ML rules     |
+| **Others**   | Google Maps API, Cloudinary (for image upload), Stripe (optional) |
+
+---
+
+## 🚀 How to Run Locally
+
+### 🔧 Frontend
 ```bash
+cd vehiql-client
+npm install
+npm start
+
+### 🔧 Backend
+```bash
+cd vehiql-server
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
->>>>>>> 666cdbd (Initial commit from Create Next App)
