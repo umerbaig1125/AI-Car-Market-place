@@ -59,19 +59,15 @@
 ## 🚀 How to Run Locally
 
 ### 🔧 Frontend
-```bash
+
 cd vehiql-client
 npm install
 npm start
 
 🔧 Backend
-bash
-Copy
-Edit
 cd vehiql-server
 npm install
 npm run dev
-
 
 👨‍💻 Developed by
 Muhammad Umer Baig
@@ -79,4 +75,3 @@ React Native | MERN Stack Developer
 📧 umerbaig1125@gmail.com
 🌐 Portfolio
 💼 LinkedIn
-
