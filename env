@@ -1,0 +1,19 @@
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=pk_test_aW50ZXJuYWwtcGlnLTc5LmNsZXJrLmFjY291bnRzLmRldiQ
+CLERK_SECRET_KEY=sk_test_0b5See718CfyESMxEGmZpkNa1alFBC6fG18DNu7w3d
+
+NEXT_PUBLIC_CLERK_SIGN_IN_URL=sign-in
+NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
+
+
+
+# Connect to Supabase via connection pooling.
+DATABASE_URL="postgresql://postgres.hdllqczjjaurbwwfxkdo:aaeBRLBLFB3cj%21%23@aws-0-ap-southeast-1.pooler.supabase.com:6543/postgres?pgbouncer=true"
+
+DIRECT_URL="postgresql://postgres.hdllqczjjaurbwwfxkdo:aaeBRLBLFB3cj%21%23@aws-0-ap-southeast-1.pooler.supabase.com:5432/postgres"
+
+NEXT_PUBLIC_SUPABASE_URL=https://hdllqczjjaurbwwfxkdo.supabase.co
+NEXT_PUBLIC_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImhkbGxxY3pqamF1cmJ3d2Z4a2RvIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDQwMzEyMzIsImV4cCI6MjA1OTYwNzIzMn0.8jsKMJFzLJ5DqEHhQ7FtyLvxrEjO_U8By6w9Wlcir6g
+
+ARCJET_KEY=ajkey_01jr86g2mefg182wnqk47mgqdy
+
+GEMINI_API_KEY=AIzaSyDIBC6c3g_O2D7cNhQCya_cCAI4JSpgsqI
