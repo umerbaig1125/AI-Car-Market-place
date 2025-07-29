@@ -29,7 +29,7 @@
 ## 📸 Screenshots
 
 ### 🔍 Home Screen  
-![Home Screen](./public/home-screen.webp)
+![Home Screen](./public/Home-Screen.webp)
 
 ### 🧠 AI-Powered Search  
 ![AI Search](./public/Details.webp)
@@ -38,7 +38,7 @@
 ![Car Details](./public/platform.webp)
 
 ### 📅 Test Drive Booking  
-![Book Test Drive](./public/FQA.webp)
+![Book Test Drive](./public/FAQ.webp)
 
 ---
 
