@@ -71,3 +71,9 @@ npm install
 npm run dev
 
 
+👨‍💻 Developed by
+Muhammad Umer Baig
+React Native | MERN Stack Developer
+📧 umerbaig1125@gmail.com
+🌐 Portfolio: https://my-portfolio-khaki-two-96.vercel.app/ | 💼 LinkedIn: https://www.linkedin.com/in/umer-baig-435206126/
+
