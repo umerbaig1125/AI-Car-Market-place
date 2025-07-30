@@ -58,13 +58,13 @@
 
 ## 🚀 How to Run Locally
 
-### 🔧 Frontend
+### 📱 React Native Frontend
 
 cd vehiql-client
 npm install
 npm start
 
-🔧 Backend
+🌐 Node Backend (Express API)
 cd vehiql-server
 npm install
 npm run dev
