@@ -56,18 +56,19 @@
 
 ---
 
-🚀 How to Run Locally
-📱 React Native Frontend
-cd vehiql-client
-npm install
+## 🚀 How to Run Locally
+
+---
+
+### 📱 React Native Frontend
+
+cd vehiql-client  
+npm install  
 npm start
-
 🌐 Node Backend (Express API)
-
-cd vehiql-server
-npm install
+cd vehiql-server  
+npm install  
 npm run dev
-
 👨‍💻 Developed by
 Muhammad Umer Baig
 React Native | MERN Stack Developer
