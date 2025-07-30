@@ -58,20 +58,23 @@
 
 ## 🚀 How to Run Locally
 
----
+### 📱 React JS Frontend
 
-### 📱 React Native Frontend
-
+```bash```
 cd vehiql-client  
 npm install  
 npm start
+
 🌐 Node Backend (Express API)
+
 cd vehiql-server  
 npm install  
 npm run dev
-👨‍💻 Developed by
-Muhammad Umer Baig
-React Native | MERN Stack Developer
-📧 umerbaig1125@gmail.com
-🌐 Portfolio
-💼 LinkedIn
+
+## 👨‍💻 Developed by
+
+**Muhammad Umer Baig**  
+React Native | MERN Stack Developer  
+📧 [umerbaig1125@gmail.com](mailto:umerbaig1125@gmail.com)  
+🌐 [Portfolio](https://my-portfolio-khaki-two-96.vercel.app/)  
+💼 [LinkedIn](https://www.linkedin.com/in/umer-baig-435206126/)
